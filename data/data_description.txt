@@ -1,0 +1,1 @@
+These data are ATL06 heights processed at 20m segments for the Northern Cascades in Washington. Data were downloaded / processed using SlideRule. Smaller and larger data correspond to 1 and 6 months of data, respectively.
