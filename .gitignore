@@ -1,3 +1,9 @@
-outputs/*.gpkg
+/outputs/*.parquet
+/outputs/*.gpkg
+/outputs/*.shp
+/outputs/*.shx
+/outputs/*.dbf
+/outputs/*.prj
+/outputs/*.fgb
 .ipynb_checkpoints/
 
